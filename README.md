@@ -48,3 +48,9 @@ Install them with:
 ```bash
 pip install numpy matplotlib scikit-learn pandas
 
+---
+
+## Contact
+
+For questions or collaboration opportunities, feel free to reach out via [GitHub Issues](../../issues) or [LinkedIn](https://www.linkedin.com/in/josequeira).
+
